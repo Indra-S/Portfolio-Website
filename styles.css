@@ -466,7 +466,7 @@ a{
     background-image: url(./images/projects/Project4.png);
   }
 
-  @media (max-width:1300px) {
+/*   @media (max-width:1300px) {
     .page-header {
       padding-top: 30px;
       color: var(--bgOrange);
@@ -521,7 +521,7 @@ a{
     .project-card:hover .project-content {
       scale: 0.55;
     }
-  }
+  } */
 
   .skills-container{
     position:relative;
